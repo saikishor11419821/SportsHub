@@ -1,0 +1,8 @@
+
+{
+  "name": "SportsHub",
+  "description": "Premium Sports Facility Management & Booking Platform",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
